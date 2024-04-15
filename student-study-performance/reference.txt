@@ -1,0 +1,4 @@
+The highest average is confined to students whose parents are master degree holders
+Students who completed the preparation course got the higher grades
+Students who got their standard lunch before exams had the highest range of total grades
+Reading scores & Writing scores have a very good correlation ,also each of them has a good correlation with math scores but less than their correlation

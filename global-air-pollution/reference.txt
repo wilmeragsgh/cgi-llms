@@ -1,0 +1,4 @@
+Overall Air Quality: The majority of cities exhibit good air quality, while a significant portion experiences moderate to unhealthy conditions, with a smaller fraction reaching very unhealthy and hazardous levels.
+Regional Disparities: India notably has a substantial number of cities with high AQI values, indicating severe pollution issues, while Brazil stands out for having the most cities with good air quality.
+Pollutant Contribution: PM2.5 emerges as a critical pollutant affecting overall air quality, with a clear positive correlation with the AQI. Other pollutants like CO and Ozone also play a role, albeit to a lesser extent.
+Correlation Analysis: PM2.5 AQI Value demonstrates a strong positive correlation with overall AQI, suggesting its significant impact on air pollution levels. Meanwhile, Carbon Monoxide and Ozone show weaker correlations with AQI.

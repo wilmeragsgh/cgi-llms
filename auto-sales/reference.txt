@@ -1,0 +1,14 @@
+298 orders placed by 89 customers from 19 countries in the last 2.5 years.
+United States leads in sales, followed by Spain and France. Notable sales from Australia and Singapore in the Eastern Hemisphere.
+Among cities, Madrid tops sales, with San Diego and New York City following.
+In the Eastern Hemisphere, sales from Australia and Singapore declined, while customers from Japan were added in 2019.
+Significant sales increase observed in US and France in 2019.
+The company manufactures 109 automobile parts under 7 product lines with prices ranging from 26 to 252.
+Classic Car parts generate the maximum revenue through sales (approx. 40%).
+Car, Truck, Bus, and Motorcycle parts account for 80% of the company's revenue.
+Upward sales trend with monthly seasonality. Peak sales in October and November annually.
+Higher sales and customer activity in the early months of 2020 compared to previous years.
+No new customers added since September 2019.
+Most deals are of medium and small size, with transactions typically containing 20 to 50 items.
+Euro Shopping Channel and Mini Gifts Distribution Ltd. are best customers (highest spending, most frequent, and recent).
+A good customer retention rate of approximately 90% was observed in 2019.
