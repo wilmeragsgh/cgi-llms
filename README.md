@@ -9,3 +9,8 @@ The repository is organized as follows:
 - notebook.ipynb: Contains the experiments done.
 - data: Contains each dataset that was tested in the notebook (*.csv) along with the insights of reference (reference.txt)
 
+## Credits for eda sessions
+
+- [auto-sales](https://www.kaggle.com/code/ddosad/automobile-sales-visual-eda/notebook#--Key-Insights-from-Analysis-) [ddosad](https://www.kaggle.com/code/ddosad/)
+- [global-air-pollution](https://www.kaggle.com/code/akashgopalgs/eda-on-global-air-pollution/notebook) [akashgopalgs](https://www.kaggle.com/code/akashgopalgs/eda-on-global-air-pollution/notebook)
+- [student-study-performance](https://www.kaggle.com/code/alzahraaahmad/studyperformanceanalysis/notebook) [alzahraaahmad](https://www.kaggle.com/code/alzahraaahmad/studyperformanceanalysis/notebook)
