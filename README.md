@@ -11,6 +11,6 @@ The repository is organized as follows:
 
 ## Credits for eda sessions
 
-- [auto-sales](https://www.kaggle.com/code/ddosad/automobile-sales-visual-eda/notebook#--Key-Insights-from-Analysis-) [ddosad](https://www.kaggle.com/code/ddosad/)
-- [global-air-pollution](https://www.kaggle.com/code/akashgopalgs/eda-on-global-air-pollution/notebook) [akashgopalgs](https://www.kaggle.com/code/akashgopalgs/eda-on-global-air-pollution/notebook)
-- [student-study-performance](https://www.kaggle.com/code/alzahraaahmad/studyperformanceanalysis/notebook) [alzahraaahmad](https://www.kaggle.com/code/alzahraaahmad/studyperformanceanalysis/notebook)
+- [auto-sales](https://www.kaggle.com/code/ddosad/automobile-sales-visual-eda/notebook#--Key-Insights-from-Analysis-) by [ddosad](https://www.kaggle.com/code/ddosad/)
+- [global-air-pollution](https://www.kaggle.com/code/akashgopalgs/eda-on-global-air-pollution/notebook) by [akashgopalgs](https://www.kaggle.com/code/akashgopalgs/eda-on-global-air-pollution/notebook)
+- [student-study-performance](https://www.kaggle.com/code/alzahraaahmad/studyperformanceanalysis/notebook) by [alzahraaahmad](https://www.kaggle.com/code/alzahraaahmad/studyperformanceanalysis/notebook)
