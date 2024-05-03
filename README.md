@@ -1,4 +1,4 @@
-# Conditional Generation of Insights using LLMs
+# Conditional Generation of Insights on tabular data using LLMs
 
 > These resources complement the final paper assignment during the XCS224U Natural Language Understanding course
 
